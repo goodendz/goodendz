@@ -159,10 +159,6 @@ nav>ol li,nav>ul li{margin:0;padding:0}
 
 @font-face{font-family:Clearface Regular;src:url(../fonts/clearface-regular.eot);src:url(../fonts/clearface-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/clearface-regular.ttf) format('truetype');font-weight:400;font-style:normal}.clearface-regular{font-family:Clearface Regular,serif;font-weight:400;font-style:normal}
 
-@font-face{font-family:Proxima Nova Regular;src:url(../fonts/prixima-nova-regular.eot);src:url(../fonts/prixima-nova-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/prixima-nova-regular.ttf) format('truetype');font-weight:400;font-style:normal}.project-nav ul li a,.proxima-nova-regular,body{font-family:Proxima Nova Regular,serif;font-weight:400;font-style:normal}
-
-@font-face{font-family:Proxima Nova Bold;src:url(../fonts/prixima-nova-bold.eot);src:url(../fonts/prixima-nova-bold.eot?#iefix) format('embedded-opentype'),url(../fonts/prixima-nova-bold.ttf) format('truetype');font-weight:700;font-style:normal}
-
 .as-h1,.as-h2,.as-h3,.as-h4,.as-h5,.as-h6,.button,.button--default,.button--ghost,.button--hexagon .button__label,.button--solid,.button--underlined,.main-nav ul li a,.main-nav ul li:before,
 
 .proxima-nova-bold,h1,h2,h3,h4,h5,h6{
