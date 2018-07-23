@@ -16,9 +16,18 @@ window.onload = function() {
 */
 
 //post directly from window, see https://stackoverflow.com/questions/11431337/
+
 var data = { type: "FROM_PAGE", text: "Hello from Good Endz!" };
 window.postMessage(data, "*");
 console.log("message sent");
+
+
+/*
+// The ID of the extension we want to talk to.
+var editorExtensionId = "khbdodljfaaonjnbkoalhlinibiffeac";
+// Make a simple request:
+chrome.runtime.sendMessage(editorExtensionId, {msg: "hello"});
+*/
 
 //do not change, removed the offset().top errors
 //edit -> top errors can't be fixed by removing top, they were there for a reason!
